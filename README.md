@@ -17,7 +17,7 @@ his repository hosts code for a remote extension board control system with ESP82
 
 1. **Setup Hardware**:
    - Connect the extension board to the microcontroller. Ensure switches or relays are connected to the specified pins in the sketch.
-   - Upload the provided sketch (`extension_board_control.ino`) to the microcontroller.
+   - Upload the provided sketch (`extensionBoard.ino`) to the microcontroller.
 
 2. **Configure WiFi**:
    - Upon first boot, the microcontroller will create an access point named "PrefectESP". Connect to it using the password "password".
