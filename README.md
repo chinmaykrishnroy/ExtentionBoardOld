@@ -30,7 +30,7 @@ his repository hosts code for a remote extension board control system with ESP82
 4. **Persistent State**:
    - The state of switches is saved to EEPROM, ensuring persistence across power cycles.
 
-## Image
+## Images
 ![board](https://github.com/chinmaykrishnroy/ExtentionBoard/assets/65699140/109d9868-1383-4cf6-9dca-59c57349a0bb)
 ![board2](https://github.com/chinmaykrishnroy/ExtentionBoard/assets/65699140/9f3b40a9-a6c8-4c5d-ac6f-d27587739f8c)
 
